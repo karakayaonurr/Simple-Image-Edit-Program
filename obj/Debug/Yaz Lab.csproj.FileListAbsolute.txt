@@ -1,0 +1,27 @@
+C:\Users\Chicharito\Desktop\YazLab1_1\YazLab1_1\bin\Debug\YazLab1_1.exe.config
+C:\Users\Chicharito\Desktop\YazLab1_1\YazLab1_1\bin\Debug\YazLab1_1.exe
+C:\Users\Chicharito\Desktop\YazLab1_1\YazLab1_1\bin\Debug\YazLab1_1.pdb
+C:\Users\Chicharito\Desktop\YazLab1_1\YazLab1_1\obj\Debug\YazLab1_1.Form1.resources
+C:\Users\Chicharito\Desktop\YazLab1_1\YazLab1_1\obj\Debug\YazLab1_1.Islem.resources
+C:\Users\Chicharito\Desktop\YazLab1_1\YazLab1_1\obj\Debug\YazLab1_1.Properties.Resources.resources
+C:\Users\Chicharito\Desktop\YazLab1_1\YazLab1_1\obj\Debug\Yaz Lab.csproj.GenerateResource.Cache
+C:\Users\Chicharito\Desktop\YazLab1_1\YazLab1_1\obj\Debug\Yaz Lab.csproj.CoreCompileInputs.cache
+C:\Users\Chicharito\Desktop\YazLab1_1\YazLab1_1\obj\Debug\YazLab1_1.exe
+C:\Users\Chicharito\Desktop\YazLab1_1\YazLab1_1\obj\Debug\YazLab1_1.pdb
+C:\Users\Chicharito\Desktop\YazLab1_1\YazLab1_1\obj\Debug\YazLab1_1.Histogram.resources
+C:\Users\Chicharito\Desktop\YazLab1_1\YazLab1_1\obj\Debug\YazLab1_1.AltForm.resources
+C:\Users\Chicharito\Desktop\YazLab1_1\YazLab1_1\obj\Debug\YazLab1_1.RGBHistogram.resources
+C:\Users\Chicharito\Desktop\YazLab1_1\YazLab1_1\obj\Debug\Yaz Lab.csprojResolveAssemblyReference.cache
+C:\Users\Chicharito\Desktop\111111111111111111111\140201051_140201052\140201051_140201052\YazLab1_1\bin\Debug\YazLab1_1.exe.config
+C:\Users\Chicharito\Desktop\111111111111111111111\140201051_140201052\140201051_140201052\YazLab1_1\bin\Debug\YazLab1_1.exe
+C:\Users\Chicharito\Desktop\111111111111111111111\140201051_140201052\140201051_140201052\YazLab1_1\bin\Debug\YazLab1_1.pdb
+C:\Users\Chicharito\Desktop\111111111111111111111\140201051_140201052\140201051_140201052\YazLab1_1\obj\Debug\Yaz Lab.csprojResolveAssemblyReference.cache
+C:\Users\Chicharito\Desktop\111111111111111111111\140201051_140201052\140201051_140201052\YazLab1_1\obj\Debug\YazLab1_1.Form1.resources
+C:\Users\Chicharito\Desktop\111111111111111111111\140201051_140201052\140201051_140201052\YazLab1_1\obj\Debug\YazLab1_1.Histogram.resources
+C:\Users\Chicharito\Desktop\111111111111111111111\140201051_140201052\140201051_140201052\YazLab1_1\obj\Debug\YazLab1_1.Islem.resources
+C:\Users\Chicharito\Desktop\111111111111111111111\140201051_140201052\140201051_140201052\YazLab1_1\obj\Debug\YazLab1_1.Properties.Resources.resources
+C:\Users\Chicharito\Desktop\111111111111111111111\140201051_140201052\140201051_140201052\YazLab1_1\obj\Debug\YazLab1_1.RGBHistogram.resources
+C:\Users\Chicharito\Desktop\111111111111111111111\140201051_140201052\140201051_140201052\YazLab1_1\obj\Debug\Yaz Lab.csproj.GenerateResource.Cache
+C:\Users\Chicharito\Desktop\111111111111111111111\140201051_140201052\140201051_140201052\YazLab1_1\obj\Debug\Yaz Lab.csproj.CoreCompileInputs.cache
+C:\Users\Chicharito\Desktop\111111111111111111111\140201051_140201052\140201051_140201052\YazLab1_1\obj\Debug\YazLab1_1.exe
+C:\Users\Chicharito\Desktop\111111111111111111111\140201051_140201052\140201051_140201052\YazLab1_1\obj\Debug\YazLab1_1.pdb
